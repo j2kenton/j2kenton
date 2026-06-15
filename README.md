@@ -1,8 +1,7 @@
 # Jonathan Kenton
 Senior Frontend Engineer ex Microsoft | React | TypeScript
 
-Transforming users → customers
-Transforming users into customers by crafting intuitive, engaging products they can't live without.
+Transforming users → customers by crafting intuitive, engaging products they can't live without.
 
 ---
 

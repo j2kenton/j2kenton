@@ -8,7 +8,7 @@ Transforming users into customers by crafting intuitive, engaging products they 
 
 ### Engineering Philosophy
 
-With 11 years of experience at Microsoft and hi-tech startups, I specialize in building high-impact, scalable web applications. My approach combines a deep focus on inclusive design with performance-driven engineering. I am passionate about leveraging cutting-edge technology to solve complex business problems, from cybersecurity threats to machine learning breakthroughs.
+With 12 years of experience at Microsoft and hi-tech startups, I specialize in building high-impact, scalable web applications. My approach combines a deep focus on inclusive design with performance-driven engineering. I am passionate about leveraging cutting-edge technology to solve complex business problems, from cybersecurity threats to machine learning breakthroughs.
 
 ---
 

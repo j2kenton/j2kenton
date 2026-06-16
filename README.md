@@ -20,6 +20,8 @@ Transforming users → customers by crafting intuitive, engaging products they c
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
 - Live: [gem3.app](https://gem3.app/)
 
+![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
+
 ---
 
 ### LinkedIn Connection Automator (Chrome Extension)

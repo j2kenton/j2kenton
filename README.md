@@ -8,6 +8,20 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ### Recent Open Source Contributions (2025–2026)
 
+#### My Daily Dad Joke (Machine Learning Research & Development)
+
+- Source: [j2kenton/jester](https://github.com/j2kenton/jester)
+- Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
+
+---
+
+#### Gem3 — Free Gemini 3.5 Pro Chat Bot (AI Chatbot)
+
+- Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
+- Live: [gem3.app](https://gem3.app/)
+
+---
+
 #### LinkedIn Connection Automator (Chrome Extension)
 
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
@@ -41,20 +55,6 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ![Gmail to Calendar screenshot 1](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-1.jpeg)
 ![Gmail to Calendar screenshot 2](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-2.jpeg)
-
----
-
-#### Gem3 — Free Gemini 3.5 Pro Chat Bot (AI Chatbot)
-
-- Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
-- Live: [gem3.app](https://gem3.app/)
-
----
-
-#### My Daily Dad Joke (Machine Learning Research & Development)
-
-- Source: [j2kenton/jester](https://github.com/j2kenton/jester)
-- Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
 
 ---
 

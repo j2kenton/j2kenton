@@ -28,6 +28,9 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
 
+![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
+![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
+
 ---
 
 ### DSA Templates (JS) (Chrome Extension)

@@ -20,6 +20,18 @@ Now that I've spent almost a year working on my own Fullstack and Machine Learni
 
 ---
 
+## My Specialties
+
+| Technology | Experience |
+| :--------- | :--------- |
+| HTML       | 12 years   |
+| CSS        | 12 years   |
+| JavaScript | 12 years   |
+| TypeScript | 8 years    |
+| React      | 8 years    |
+
+---
+
 ## My Daily Dad Joke (Machine Learning Research & Development)
 
 - Source: [j2kenton/jester](https://github.com/j2kenton/jester)
@@ -76,14 +88,3 @@ Now that I've spent almost a year working on my own Fullstack and Machine Learni
 - Source: [j2kenton/gmail-to-calendar](https://github.com/j2kenton/gmail-to-calendar)
 
 ![Gmail to Calendar screenshot 2](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-2.jpeg)
-
----
-
-## Technical Expertise
-
-| Category              | Technologies                                             |
-| :-------------------- | :------------------------------------------------------- |
-| **Core**              | JavaScript (ES6+), TypeScript, React, Next.js            |
-| **State & Data**      | Redux, RxJS, Node.js                                     |
-| **Quality & Testing** | Jest, React Testing Library, Accessibility (axe)         |
-| **Styling & UI**      | Styled Components, Tailwind CSS, CSS3, HTML5             |

@@ -46,6 +46,9 @@ Transforming users → customers by crafting intuitive, engaging products they c
 - Source: [j2kenton/vs-code-ai-helper](https://github.com/j2kenton/vs-code-ai-helper)
 - Published: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=j2kenton.vs-code-ai-helper)
 
+![VS Code AI Helper screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.jpeg)
+![VS Code AI Helper screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.jpeg)
+
 ---
 
 ### ReVamp — AI-Powered Web Development Framework (VS Code Extension)

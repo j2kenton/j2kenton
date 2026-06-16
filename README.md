@@ -15,7 +15,7 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ---
 
-### Gem3 — Free Gemini 3.5 Pro Chat Bot (AI Chatbot)
+### Gem3 — Free Gemini Flash Chat Bot (AI Chatbot)
 
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
 - Live: [gem3.app](https://gem3.app/)

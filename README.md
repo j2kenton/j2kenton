@@ -13,6 +13,8 @@ Transforming users → customers by crafting intuitive, engaging products they c
 - Source: [j2kenton/jester](https://github.com/j2kenton/jester)
 - Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
 
+![My Daily Dad Joke screenshot](https://raw.githubusercontent.com/j2kenton/jester/main/assets/screenshots/screenshot-1.jpeg)
+
 ---
 
 #### Gem3 — Free Gemini 3.5 Pro Chat Bot (AI Chatbot)

@@ -32,42 +32,60 @@ Now that I've spent almost a year working on my own Fullstack and Machine Learni
 
 ---
 
-## My Daily Dad Joke (Machine Learning Research & Development)
+## My Daily Dad Joke
+
+A production ML system delivered entirely through WhatsApp: it learns each user's sense of humor from their reactions (via embeddings and a statistical preference model) and uses an LLM to generate and test original joke variations against that learned taste.
 
 - Source: [j2kenton/jester](https://github.com/j2kenton/jester)
 - Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
 
 ![My Daily Dad Joke screenshot](https://raw.githubusercontent.com/j2kenton/jester/main/assets/screenshots/screenshot-1.jpeg)
 
+`#MachineLearning` `#LLM` `#VectorEmbeddings` `#AmazonBedrock` `#TypeScript` `#PostgreSQL` `#AWSSQS` `#AWSLambda` `#AWSCDK`
+
 ---
 
-## Gem3 — Free Gemini Flash Chat Bot (AI Chatbot)
+## Gem3 — Free Gemini Flash Chat Bot
+
+A free AI chatbot built on Next.js and Google's Gemini Flash model, with Microsoft sign-in for authenticated chat history.
 
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
 - Live: [gem3.app](https://gem3.app/)
 
 ![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
 
+`#TypeScript` `#React` `#Next.js` `#GeminiAPI` `#Azure` `#Redux` `#TailwindCSS`
+
 ---
 
-## LinkedIn Connection Automator (Chrome Extension)
+## LinkedIn Connection Automator
+
+A Chrome extension that automates sending LinkedIn connection requests in sequence with randomized delays to look natural.
 
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
 
 ![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
 ![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
 
+`#TypeScript` `#ChromeExtension`
+
 ---
 
-## DSA Templates (JS) (Chrome Extension)
+## DSA Templates (JS)
+
+A Chrome extension that drops ready-to-use data structure and algorithm code templates into the editor for coding interview practice.
 
 - Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
 
 ![DSA Templates screenshot](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
 
+`#JavaScript` `#ChromeExtension`
+
 ---
 
-## VS Code AI Helper (VS Code Extension)
+## VS Code AI Helper
+
+A VS Code extension that helps developers organize and resume AI-assisted coding tasks by tracking meta-level resources alongside a project.
 
 - Source: [j2kenton/vs-code-ai-helper](https://github.com/j2kenton/vs-code-ai-helper)
 - Published: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=j2kenton.vs-code-ai-helper)
@@ -75,16 +93,26 @@ Now that I've spent almost a year working on my own Fullstack and Machine Learni
 ![VS Code AI Helper screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.jpeg)
 ![VS Code AI Helper screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.jpeg)
 
+`#TypeScript` `#VSCodeExtension`
+
 ---
 
-## ReVamp — AI-Powered Web Development Framework (VS Code Extension)
+## ReVamp — AI-Powered Web Development Framework
+
+A starter framework and matching VS Code extension for scaffolding new Next.js projects with sensible defaults already wired up.
 
 - Source: [j2kenton/revamp](https://github.com/j2kenton/revamp) · [j2kenton/revamp-vscode](https://github.com/j2kenton/revamp-vscode)
 
+`#TypeScript` `#React` `#Next.js` `#TailwindCSS` `#Redux` `#VSCodeExtension`
+
 ---
 
-## Gmail Plugin: Send to Calendar (Google Workspace Extension)
+## Gmail Plugin: Send to Calendar
+
+A Google Workspace add-on that reads a Gmail message with AI and creates a matching Google Calendar event in one click.
 
 - Source: [j2kenton/gmail-to-calendar](https://github.com/j2kenton/gmail-to-calendar)
 
 ![Gmail to Calendar screenshot 2](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-2.jpeg)
+
+`#GoogleAppsScript` `#GeminiAPI` `#GoogleWorkspace`

@@ -1,12 +1,16 @@
-# Jonathan Kenton
+# 👋 Hi, I'm Jonathan
 
-## Senior Frontend Engineer ex Microsoft
+I build products with code.
 
-Transforming users → customers by crafting intuitive, engaging products they can't live without.
+For about 12 years now, I've been focusing on user experience and accessibility. Recently I worked for 4 years at Microsoft, building complex frontend architecture, developing reusable UI components, and fixing over 100 accessibility bugs. As Accessibility Tech Lead for my entire engineering group, I took full responsibility for ensuring legal compliance and drove a shift-left initiative to catch issues earlier in the process.
+
+After that, I decided to take some time to dive into AI and the technologies around it, and expand my skill set into full stack development (see below for some recent open source projects).
+
+Now I'm looking for frontend/full stack opportunities to go back into the industry and make an impact - with an emphasis on user experience, end-to-end product ownership, and scalability.
 
 ---
 
-### My Daily Dad Joke (Machine Learning Research & Development)
+## My Daily Dad Joke (Machine Learning Research & Development)
 
 - Source: [j2kenton/jester](https://github.com/j2kenton/jester)
 - Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
@@ -15,7 +19,7 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ---
 
-### Gem3 — Free Gemini Flash Chat Bot (AI Chatbot)
+## Gem3 — Free Gemini Flash Chat Bot (AI Chatbot)
 
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
 - Live: [gem3.app](https://gem3.app/)
@@ -24,7 +28,7 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ---
 
-### LinkedIn Connection Automator (Chrome Extension)
+## LinkedIn Connection Automator (Chrome Extension)
 
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
 
@@ -33,7 +37,7 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ---
 
-### DSA Templates (JS) (Chrome Extension)
+## DSA Templates (JS) (Chrome Extension)
 
 - Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
 
@@ -41,7 +45,7 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ---
 
-### VS Code AI Helper (VS Code Extension)
+## VS Code AI Helper (VS Code Extension)
 
 - Source: [j2kenton/vs-code-ai-helper](https://github.com/j2kenton/vs-code-ai-helper)
 - Published: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=j2kenton.vs-code-ai-helper)
@@ -51,13 +55,13 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ---
 
-### ReVamp — AI-Powered Web Development Framework (VS Code Extension)
+## ReVamp — AI-Powered Web Development Framework (VS Code Extension)
 
 - Source: [j2kenton/revamp](https://github.com/j2kenton/revamp) · [j2kenton/revamp-vscode](https://github.com/j2kenton/revamp-vscode)
 
 ---
 
-### Gmail Plugin: Send to Calendar (Google Workspace Extension)
+## Gmail Plugin: Send to Calendar (Google Workspace Extension)
 
 - Source: [j2kenton/gmail-to-calendar](https://github.com/j2kenton/gmail-to-calendar)
 
@@ -65,7 +69,7 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 ---
 
-### Technical Expertise
+## Technical Expertise
 
 | Category              | Technologies                                             |
 | :-------------------- | :------------------------------------------------------- |

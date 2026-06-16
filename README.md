@@ -63,6 +63,7 @@ A free AI chatbot built on Next.js and Google's Gemini Flash model, with Microso
 A Chrome extension that automates sending LinkedIn connection requests in sequence with randomized delays to look natural.
 
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
+- Status: Pending Chrome Web Store review
 
 ![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
 ![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
@@ -76,6 +77,7 @@ A Chrome extension that automates sending LinkedIn connection requests in sequen
 A Chrome extension that drops ready-to-use data structure and algorithm code templates into the editor for coding interview practice.
 
 - Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
+- Status: Pending Chrome Web Store review
 
 ![DSA Templates screenshot](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
 
@@ -112,6 +114,7 @@ A starter framework and matching VS Code extension for scaffolding new Next.js p
 A Google Workspace add-on that reads a Gmail message with AI and creates a matching Google Calendar event in one click.
 
 - Source: [j2kenton/gmail-to-calendar](https://github.com/j2kenton/gmail-to-calendar)
+- Status: Pending Google Workspace Marketplace review
 
 ![Gmail to Calendar screenshot 2](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-2.jpeg)
 

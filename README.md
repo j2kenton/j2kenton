@@ -61,7 +61,6 @@ Transforming users → customers by crafting intuitive, engaging products they c
 
 - Source: [j2kenton/gmail-to-calendar](https://github.com/j2kenton/gmail-to-calendar)
 
-![Gmail to Calendar screenshot 1](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-1.jpeg)
 ![Gmail to Calendar screenshot 2](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-2.jpeg)
 
 ---

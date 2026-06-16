@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Jonathan
 
-I build products with code.
+I specialize in building products that feel really intuitive to use, but are actually very powerful underneath. On the surface that sounds like a contradiction, but I've found that they both come down to the same thing: carefully thinking things through and organizing everything in a logical way.
 
-For about 12 years now, I've been focusing on user experience and accessibility. Recently I worked for 4 years at Microsoft, building complex frontend architecture, developing reusable UI components, and fixing over 100 accessibility bugs. As Accessibility Tech Lead for my entire engineering group, I took full responsibility for ensuring legal compliance and drove a shift-left initiative to catch issues earlier in the process.
+My first major role was about 10 years ago at a Machine Learning startup called "Intuview". My main responsibility was taking full ownership of the Frontend, but I also got to do some Backend work on the side.
 
-After that, I decided to take some time to dive into AI and the technologies around it, and expand my skill set into full stack development (see below for some recent open source projects).
+Because I wanted to have as much impact as possible, I slowly worked my way up to bigger and bigger companies until I finally joined Microsoft 5 years ago.
 
-Now I'm looking for frontend/full stack opportunities to go back into the industry and make an impact - with an emphasis on user experience, end-to-end product ownership, and scalability.
+At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platform for refining Machine Learning models. I also took responsibility for Accessibility compliance for my whole engineering group. But this wasn't just about fixing all the bugs myself. It was more about shifting everyone's mindset from viewing Accessibility as an inconvenient legal hurdle to an opportunity to create the best possible experience for all our users.
+
+After about 4 years at Microsoft, as our project was winding down, I took the opportunity to pivot and focus on my open source work (see below).
+
+Now that I've spent almost a year working on my own Fullstack and Machine Learning projects, I'm really excited to bring all of that back into the industry. I'm looking for opportunities to join product teams where I can have end-to-end ownership and impact at scale.
 
 ---
 

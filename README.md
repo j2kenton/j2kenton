@@ -105,6 +105,8 @@ A starter framework and matching VS Code extension for scaffolding new Next.js p
 
 - Source: [j2kenton/revamp](https://github.com/j2kenton/revamp) · [j2kenton/revamp-vscode](https://github.com/j2kenton/revamp-vscode)
 
+![ReVamp VS Code screenshot](https://raw.githubusercontent.com/j2kenton/revamp-vscode/main/assets/screenshots/screenshot-2.jpeg)
+
 `#TypeScript` `#React` `#Next.js` `#TailwindCSS` `#Redux` `#VSCodeExtension`
 
 ---

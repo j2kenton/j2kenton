@@ -50,6 +50,8 @@ Now that I've spent almost a year working on my own Fullstack and Machine Learni
 
 ---
 
+# Highlights
+
 ## My Daily Dad Joke
 
 A production ML system delivered entirely through WhatsApp: it learns each user's sense of humor from their reactions (via embeddings and a statistical preference model) and uses an LLM to generate and test original joke variations against that learned taste.

@@ -12,7 +12,7 @@ Because I wanted to have as much impact as possible, I slowly worked my way up t
 
 At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platform for refining Machine Learning models. I also took responsibility for Accessibility compliance for my whole engineering group. But this wasn't just about fixing all the bugs myself. It was more about shifting everyone's mindset from viewing Accessibility as an inconvenient legal hurdle to an opportunity to create the best possible experience for all our users.
 
-After about 4 years at Microsoft, as our project was winding down, I took the opportunity to pivot and focus on my open source work (see below).
+After about 4 years at Microsoft, as our project was winding down, I took the opportunity to pivot and focus on my open source work ([see below!](#highlights))
 
 ## What am I looking for now?
 

@@ -61,7 +61,7 @@ A production ML system delivered entirely through WhatsApp: it builds a personal
 
 <br>
 
-`#MachineLearning` `#LLM` `#VectorEmbeddings` `#AmazonBedrock` `#TypeScript` `#PostgreSQL` `#AWSSQS` `#AWSLambda` `#AWSCDK`
+#MachineLearning #LLM #VectorEmbeddings #AmazonBedrock #TypeScript #NodeJS #PostgreSQL #AWS #SQS #Lambda
 
 <br>
 
@@ -78,7 +78,7 @@ Free access to a cutting-edge AI chatbot powered by the latest version of Google
 
 <br>
 
-`#TypeScript` `#React` `#Next.js` `#GeminiAPI` `#Azure` `#Redux` `#TailwindCSS`
+#TypeScript #React #NextJS #NodeJS #Redis #SSE #GeminiAPI #Azure #Redux #TailwindCSS
 
 <br>
 
@@ -95,7 +95,7 @@ A Chrome extension for building your network strategically - send connection req
 
 <br>
 
-`#TypeScript` `#ChromeExtension`
+#TypeScript #ChromeExtension
 
 <br>
 
@@ -113,7 +113,7 @@ A Chrome extension that drops ready-to-use JavaScript data structure and algorit
 
 <br>
 
-`#JavaScript` `#ChromeExtension`
+#JavaScript #ChromeExtension
 
 <br>
 
@@ -130,7 +130,7 @@ A VS Code extension that brings structure to AI-assisted development - keeping y
 
 <br>
 
-`#TypeScript` `#VSCodeExtension`
+#TypeScript #VSCodeExtension
 
 <br>
 
@@ -148,7 +148,7 @@ An opinionated starter framework for new Next.js product projects, paired with a
 
 <br>
 
-`#TypeScript` `#React` `#Next.js` `#TailwindCSS` `#Redux` `#VSCodeExtension`
+#TypeScript #React #NextJS #NodeJS #TailwindCSS #Redux #VSCodeExtension
 
 <br>
 
@@ -165,7 +165,7 @@ A Google Workspace™ add-on that makes it easy to turn emails into calendar eve
 
 <br>
 
-`#GoogleAppsScript` `#GeminiAPI` `#GoogleWorkspace`
+#GoogleAppsScript #GeminiAPI #GoogleWorkspace
 
 <br>
 

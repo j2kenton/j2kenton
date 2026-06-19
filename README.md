@@ -54,7 +54,7 @@ Now that I've spent almost a year working on my own Fullstack and Machine Learni
 
 ## My Daily Dad Joke
 
-A production ML system delivered entirely through WhatsApp: it learns each user's sense of humor from their reactions (via embeddings and a statistical preference model) and uses an LLM to generate and test original joke variations against that learned taste.
+A production ML system delivered entirely through WhatsApp: it builds a personalised model of each user's sense of humor from their reactions (via embeddings and a statistical preference model), then uses an LLM to generate and test original joke variations against that learned taste - with the long-term goal of training AI that is genuinely specialised for comedy.
 
 - Source: [j2kenton/jester](https://github.com/j2kenton/jester)
 - Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
@@ -65,9 +65,9 @@ A production ML system delivered entirely through WhatsApp: it learns each user'
 
 ---
 
-## Gem3 — Free Gemini Flash Chat Bot
+## Gem3 - Free Gemini™ Flash Chat Bot
 
-A free AI chatbot built on Next.js and Google's Gemini Flash model, with Microsoft sign-in for authenticated chat history.
+Free access to a cutting-edge AI chatbot powered by the latest version of Google's Gemini™ Flash model - for anyone who wants it, no subscription required.
 
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
 - Live: [www.gem3.app](https://gem3.app/)
@@ -78,9 +78,9 @@ A free AI chatbot built on Next.js and Google's Gemini Flash model, with Microso
 
 ---
 
-## LinkedIn Connection Automator
+## LinkedIn™ Connection Automator
 
-A Chrome extension that automates sending LinkedIn connection requests in sequence with randomized delays to look natural.
+A Chrome extension for building your network strategically - send connection requests to the people who matter most to your career, paced with randomized delays to stay within LinkedIn™'s normal usage patterns.
 
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
 - Published: [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-connection-assis/poedmlfffaldgihhpffkbknjegmkpclj)
@@ -92,9 +92,9 @@ A Chrome extension that automates sending LinkedIn connection requests in sequen
 
 ---
 
-## DSA Templates (JS)
+## DSA Templates
 
-A Chrome extension that drops ready-to-use data structure and algorithm code templates into the editor for coding interview practice.
+A Chrome extension that drops ready-to-use JavaScript data structure and algorithm templates directly into the editor for coding interview practice.
 
 - Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
 - Published: [Chrome Web Store](https://chromewebstore.google.com/detail/dsa-templates/ollnhakcihdpbakabcdgagaciipklehd)
@@ -107,7 +107,7 @@ A Chrome extension that drops ready-to-use data structure and algorithm code tem
 
 ## VS Code AI Helper
 
-A VS Code extension that helps developers organize and resume AI-assisted coding tasks by tracking meta-level resources alongside a project.
+A VS Code extension that brings structure to AI-assisted development - keeping your context, notes, and resources organised so you can work more effectively alongside AI coding tools.
 
 - Source: [j2kenton/vs-code-ai-helper](https://github.com/j2kenton/vs-code-ai-helper)
 - Published: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=j2kenton.vs-code-ai-helper)
@@ -119,9 +119,9 @@ A VS Code extension that helps developers organize and resume AI-assisted coding
 
 ---
 
-## ReVamp — AI-Powered Web Development Framework
+## ReVamp - Opinionated Next.js Starter Framework
 
-A starter framework and matching VS Code extension for scaffolding new Next.js projects with sensible defaults already wired up.
+An opinionated starter framework for new Next.js product projects, paired with a VS Code extension that makes it easy to spin up a new project from the template without leaving the IDE.
 
 - Source: [j2kenton/revamp](https://github.com/j2kenton/revamp) · [j2kenton/revamp-vscode](https://github.com/j2kenton/revamp-vscode)
 - Status: Pending VS Code Marketplace review
@@ -132,9 +132,9 @@ A starter framework and matching VS Code extension for scaffolding new Next.js p
 
 ---
 
-## Gmail Plugin: Send to Calendar
+## Gmail™ Plugin: Send to Calendar
 
-A Google Workspace add-on that reads a Gmail message with AI and creates a matching Google Calendar event in one click.
+A Google Workspace™ add-on that makes it easy to turn emails into calendar events - just open a message in Gmail™, hit the button, and it uses AI to read the details and add the event straight to your Google Calendar™. No copy-pasting, no switching tabs.
 
 - Source: [j2kenton/gmail-to-calendar](https://github.com/j2kenton/gmail-to-calendar)
 - Status: Pending Google Workspace Marketplace review

@@ -70,7 +70,7 @@ A production ML system delivered entirely through WhatsApp: it learns each user'
 A free AI chatbot built on Next.js and Google's Gemini Flash model, with Microsoft sign-in for authenticated chat history.
 
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
-- Live: [gem3.app](https://gem3.app/)
+- Live: [www.gem3.app](https://gem3.app/)
 
 ![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
 
@@ -83,7 +83,7 @@ A free AI chatbot built on Next.js and Google's Gemini Flash model, with Microso
 A Chrome extension that automates sending LinkedIn connection requests in sequence with randomized delays to look natural.
 
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
-- Status: Pending Chrome Web Store review
+- Published: [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-connection-assis/poedmlfffaldgihhpffkbknjegmkpclj)
 
 ![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
 ![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
@@ -97,7 +97,7 @@ A Chrome extension that automates sending LinkedIn connection requests in sequen
 A Chrome extension that drops ready-to-use data structure and algorithm code templates into the editor for coding interview practice.
 
 - Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
-- Status: Pending Chrome Web Store review
+- Published: [Chrome Web Store](https://chromewebstore.google.com/detail/dsa-templates/ollnhakcihdpbakabcdgagaciipklehd)
 
 ![DSA Templates screenshot](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
 
@@ -124,6 +124,7 @@ A VS Code extension that helps developers organize and resume AI-assisted coding
 A starter framework and matching VS Code extension for scaffolding new Next.js projects with sensible defaults already wired up.
 
 - Source: [j2kenton/revamp](https://github.com/j2kenton/revamp) · [j2kenton/revamp-vscode](https://github.com/j2kenton/revamp-vscode)
+- Status: Pending VS Code Marketplace review
 
 ![ReVamp VS Code screenshot](https://raw.githubusercontent.com/j2kenton/revamp-vscode/main/assets/screenshots/screenshot-2.jpeg)
 

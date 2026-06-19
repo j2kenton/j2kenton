@@ -59,9 +59,13 @@ A production ML system delivered entirely through WhatsApp: it builds a personal
 - Source: [j2kenton/jester](https://github.com/j2kenton/jester)
 - Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
 
-![My Daily Dad Joke screenshot](https://raw.githubusercontent.com/j2kenton/jester/main/assets/screenshots/screenshot-1.jpeg)
+<br>
 
 `#MachineLearning` `#LLM` `#VectorEmbeddings` `#AmazonBedrock` `#TypeScript` `#PostgreSQL` `#AWSSQS` `#AWSLambda` `#AWSCDK`
+
+<br>
+
+![My Daily Dad Joke screenshot](https://raw.githubusercontent.com/j2kenton/jester/main/assets/screenshots/screenshot-1.jpeg)
 
 ---
 
@@ -72,9 +76,13 @@ Free access to a cutting-edge AI chatbot powered by the latest version of Google
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
 - Live: [www.gem3.app](https://gem3.app/)
 
-![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
+<br>
 
 `#TypeScript` `#React` `#Next.js` `#GeminiAPI` `#Azure` `#Redux` `#TailwindCSS`
+
+<br>
+
+![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
 
 ---
 
@@ -85,10 +93,14 @@ A Chrome extension for building your network strategically - send connection req
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
 - Published: [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-connection-assis/poedmlfffaldgihhpffkbknjegmkpclj)
 
-![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
-![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
+<br>
 
 `#TypeScript` `#ChromeExtension`
+
+<br>
+
+![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
+![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
 
 ---
 
@@ -99,9 +111,13 @@ A Chrome extension that drops ready-to-use JavaScript data structure and algorit
 - Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
 - Published: [Chrome Web Store](https://chromewebstore.google.com/detail/dsa-templates/ollnhakcihdpbakabcdgagaciipklehd)
 
-![DSA Templates screenshot](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
+<br>
 
 `#JavaScript` `#ChromeExtension`
+
+<br>
+
+![DSA Templates screenshot](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
 
 ---
 
@@ -112,10 +128,14 @@ A VS Code extension that brings structure to AI-assisted development - keeping y
 - Source: [j2kenton/vs-code-ai-helper](https://github.com/j2kenton/vs-code-ai-helper)
 - Published: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=j2kenton.vs-code-ai-helper)
 
-![VS Code AI Helper screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.jpeg)
-![VS Code AI Helper screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.jpeg)
+<br>
 
 `#TypeScript` `#VSCodeExtension`
+
+<br>
+
+![VS Code AI Helper screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.jpeg)
+![VS Code AI Helper screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.jpeg)
 
 ---
 
@@ -126,9 +146,13 @@ An opinionated starter framework for new Next.js product projects, paired with a
 - Source: [j2kenton/revamp](https://github.com/j2kenton/revamp) · [j2kenton/revamp-vscode](https://github.com/j2kenton/revamp-vscode)
 - Status: Pending VS Code Marketplace review
 
-![ReVamp VS Code screenshot](https://raw.githubusercontent.com/j2kenton/revamp-vscode/main/assets/screenshots/screenshot-2.jpeg)
+<br>
 
 `#TypeScript` `#React` `#Next.js` `#TailwindCSS` `#Redux` `#VSCodeExtension`
+
+<br>
+
+![ReVamp VS Code screenshot](https://raw.githubusercontent.com/j2kenton/revamp-vscode/main/assets/screenshots/screenshot-2.jpeg)
 
 ---
 
@@ -139,6 +163,10 @@ A Google Workspace™ add-on that makes it easy to turn emails into calendar eve
 - Source: [j2kenton/gmail-to-calendar](https://github.com/j2kenton/gmail-to-calendar)
 - Status: Pending Google Workspace Marketplace review
 
-![Gmail to Calendar screenshot 2](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-2.jpeg)
+<br>
 
 `#GoogleAppsScript` `#GeminiAPI` `#GoogleWorkspace`
+
+<br>
+
+![Gmail to Calendar screenshot 2](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-2.jpeg)

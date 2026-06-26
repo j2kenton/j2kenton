@@ -56,7 +56,6 @@ Now that I've spent almost a year working on my own Fullstack and Machine Learni
 
 A production ML system delivered entirely through WhatsApp: it builds a personalised model of each user's sense of humor from their reactions (via embeddings and a statistical preference model), then uses an LLM to generate and test original joke variations against that learned taste - with the long-term goal of training AI that is genuinely specialised for comedy.
 
-- Source: [j2kenton/jester](https://github.com/j2kenton/jester)
 - Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
 
 <br>

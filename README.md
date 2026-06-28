@@ -6,7 +6,7 @@ I specialize in building products that feel really intuitive to use, but are act
 
 ## Startup Experience
 
-My first major role was about 10 years ago at a Machine Learning startup called "Intuview". My main responsibility was taking full ownership of the Frontend, but I also got to do some Backend work on the side.
+I started out in the industry about 12 years ago, mostly working freelance. My first major role was just over 10 years ago at a Machine Learning startup called "Intuview". My main responsibility was taking full ownership of the Frontend, but I also got to do some Backend work on the side.
 
 Because I wanted to have as much impact as possible, I slowly worked my way up to bigger and bigger companies until I finally joined Microsoft 5 years ago.
 
@@ -16,11 +16,11 @@ At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platf
 
 ## Machine Learning Research
 
-After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and start exploring areas that I'd always been interested in but never found the time for - including Backend, AI, and Machine Learning. My main focus has been developing My Daily Dad Joke, a production system built from scratch to explore whether AI can be trained to have a genuine sense of humour.
+After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and start exploring areas that I'd always been interested in but never found the time for - including Backend, AI, and Machine Learning. My main focus has been developing [My Daily Dad Joke](#my-daily-dad-joke), a production system built from scratch to explore whether AI can be trained to have a genuine sense of humour.
 
 ## What am I looking for now?
 
-I'm really excited to bring all of that back into the industry. I'm looking for opportunities to join product teams where I can have end-to-end ownership and impact at scale.
+Now that I've learned how to use AI to work more productively - and even built my own [open source productivity tools](#highlights) - I'm really excited to bring all of that back into the industry. I'm looking for Frontend and Fullstack roles on product teams where I can have end-to-end ownership and really meaningful impact.
 
 ---
 

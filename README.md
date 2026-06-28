@@ -16,7 +16,7 @@ At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platf
 
 ## Machine Learning Research
 
-After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and start exploring areas that I'd always been interested in but never found the time for - including Backend, AI, and Machine Learning. My main focus has been [training an AI to have a sense of humour](#my-daily-dad-joke) - which sounds like a bit of a joke, but is actually one of the trickiest unsolved problems in machine learning.
+After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and dive deeper into areas I'd always been interested in but never had the time to explore in depth - including Backend, AI, and Machine Learning. My main focus has been [training an AI to have a sense of humour](#my-daily-dad-joke) - which sounds like a bit of a joke, but is actually one of the trickiest unsolved problems in machine learning.
 
 Now that I've learned how to use AI to work more productively - and even built my own [open source productivity tools](#gem3---free-ai-chatbot) - I'm really excited to bring all of that back into the industry.
 

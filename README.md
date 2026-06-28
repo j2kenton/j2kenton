@@ -18,9 +18,11 @@ At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platf
 
 After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and start exploring areas that I'd always been interested in but never found the time for - including Backend, AI, and Machine Learning. My main focus has been developing [My Daily Dad Joke](#my-daily-dad-joke), a production system built from scratch to explore whether AI can be trained to have a genuine sense of humour.
 
+Now that I've learned how to use AI to work more productively - and even built my own [open source productivity tools](#gem3---free-ai-chatbot) - I'm really excited to bring all of that back into the industry.
+
 ## What am I looking for now?
 
-Now that I've learned how to use AI to work more productively - and even built my own [open source productivity tools](#gem3---free-ai-chatbot) - I'm really excited to bring all of that back into the industry. I'm looking for Frontend and Fullstack roles on product teams where I can have end-to-end ownership and really meaningful impact.
+I'm looking for Frontend and Fullstack roles on product teams where I can have end-to-end ownership and really meaningful impact.
 
 ---
 

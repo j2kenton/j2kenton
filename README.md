@@ -43,9 +43,11 @@ I'm looking for Frontend and Fullstack roles on product teams where I can have e
 | Category | Technology |
 | :------- | :--------- |
 | Backend | Node.js |
+| REST APIs | Hono |
 | Message Queues | SQS |
 | Database | PostgreSQL |
 | Vector Search | pgvector |
+| Caching | Redis |
 | Machine Learning | ML Pipelines |
 | Cloud | AWS |
 | Serverless | Lambda |

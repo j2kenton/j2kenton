@@ -4,19 +4,23 @@
 
 I specialize in building products that feel really intuitive to use, but are actually very powerful underneath. On the surface that sounds like a contradiction, but I've found that they both come down to the same thing: carefully thinking things through and organizing everything in a logical way.
 
-## My experience
+## Startup Experience
 
 My first major role was about 10 years ago at a Machine Learning startup called "Intuview". My main responsibility was taking full ownership of the Frontend, but I also got to do some Backend work on the side.
 
 Because I wanted to have as much impact as possible, I slowly worked my way up to bigger and bigger companies until I finally joined Microsoft 5 years ago.
 
-At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platform for refining Machine Learning models. I also took responsibility for Accessibility compliance for my whole engineering group. But this wasn't just about fixing all the bugs myself. It was more about shifting everyone's mindset from viewing Accessibility as an inconvenient legal hurdle to an opportunity to create the best possible experience for all our users.
+## Microsoft
 
-After about 4 years at Microsoft, as our project was winding down, I took the opportunity to pivot and focus on my open source work ([see below!](#highlights))
+At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platform for refining Machine Learning models. I also took responsibility for Accessibility compliance for my whole engineering group. But this wasn't just about fixing all the bugs myself. It was more about shifting everyone's mindset from viewing Accessibility as an inconvenient legal hurdle to an opportunity to create the best possible experience for all our users!
+
+## Machine Learning Research
+
+After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and start exploring areas that I'd always been interested in but never found the time for - including Backend, AI, and Machine Learning. My main focus has been developing My Daily Dad Joke, a production system built from scratch to explore whether AI can be trained to have a genuine sense of humour.
 
 ## What am I looking for now?
 
-Now that I've spent almost a year working on my own Fullstack and Machine Learning projects, I'm really excited to bring all of that back into the industry. I'm looking for opportunities to join product teams where I can have end-to-end ownership and impact at scale.
+I'm really excited to bring all of that back into the industry. I'm looking for opportunities to join product teams where I can have end-to-end ownership and impact at scale.
 
 ---
 

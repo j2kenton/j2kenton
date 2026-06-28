@@ -47,11 +47,11 @@ I'm looking for Frontend and Fullstack roles on product teams where I can have e
 | Message Queues | SQS |
 | Database | PostgreSQL |
 | Vector Search | pgvector |
-| Caching | Redis |
-| Machine Learning | ML Pipelines |
+| Machine Learning | Model Training |
+| AI Platform | Bedrock |
 | Cloud | AWS |
 | Serverless | Lambda |
-| AI Platform | Bedrock |
+| Caching | Redis |
 | Browser Extensions | Chrome |
 | IDE Extensions | VS Code |
 | Workspace Add-ons | Google Workspace |

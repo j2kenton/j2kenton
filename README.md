@@ -68,7 +68,7 @@ A production ML system delivered entirely through WhatsApp: it builds a personal
 
 <br>
 
-![My Daily Dad Joke screenshot](https://raw.githubusercontent.com/j2kenton/jester/main/assets/screenshots/screenshot-1.jpeg)
+![My Daily Dad Joke screenshot](assets/screenshots/screenshot-1.jpeg)
 
 ---
 

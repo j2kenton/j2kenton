@@ -16,7 +16,7 @@ At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platf
 
 ## Machine Learning Research
 
-After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and dive deeper into areas I'd always been interested in but never had the time to explore in depth - including Backend, AI, and Machine Learning. My main focus has been [training an AI to have a sense of humour](#my-daily-dad-joke) - which sounds like a bit of a joke, but is actually one of the trickiest unsolved problems in machine learning.
+After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and dive deeper into areas I'd always been interested in but never had the time to explore in depth - including Backend, AI, and Machine Learning. My main focus has been [training an AI to have a sense of humour](#my-daily-dad-joke--ml-research) - which sounds like a bit of a joke, but is actually one of the trickiest unsolved problems in machine learning.
 
 Now that I've learned how to use AI to work more productively - and even built my own [open source productivity tools](#gem3---free-ai-chatbot) - I'm really excited to bring all of that back into the industry.
 
@@ -60,11 +60,12 @@ I'm looking for Frontend and Fullstack roles on product teams where I can have e
 
 # Highlights
 
-## My Daily Dad Joke
+## My Daily Dad Joke · ML Research
 
-A production ML system delivered entirely through WhatsApp: it builds a personalised model of each user's sense of humor from their reactions (via embeddings and a statistical preference model), then uses an LLM to generate and test original joke variations against that learned taste - with the long-term goal of training AI that is genuinely specialised for comedy.
+A production system that uses AI to generate original jokes and serve them to users via WhatsApp. The jokes get better and better based on the feedback of each user. The long-term goal is to train a foundational model that is not just smart but also hilarious!
 
-- Live: [mydailyjoke.dad](https://mydailyjoke.dad/)
+- More info: [mydailyjoke.dad](https://mydailyjoke.dad/)
+- Try it for free: [mydailyjoke.dad/join](https://mydailyjoke.dad/join)
 
 <br>
 

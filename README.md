@@ -20,7 +20,7 @@ After 4 years at Microsoft, as our project started winding down, I took the oppo
 
 ## What am I looking for now?
 
-Now that I've learned how to use AI to work more productively - and even built my own [open source productivity tools](#highlights) - I'm really excited to bring all of that back into the industry. I'm looking for Frontend and Fullstack roles on product teams where I can have end-to-end ownership and really meaningful impact.
+Now that I've learned how to use AI to work more productively - and even built my own [open source productivity tools](#gem3---free-ai-chatbot) - I'm really excited to bring all of that back into the industry. I'm looking for Frontend and Fullstack roles on product teams where I can have end-to-end ownership and really meaningful impact.
 
 ---
 
@@ -72,7 +72,7 @@ A production ML system delivered entirely through WhatsApp: it builds a personal
 
 ---
 
-## Gem3 - Free Gemini™ Flash Chat Bot
+## Gem3 - Free AI Chatbot
 
 Free access to a cutting-edge AI chatbot powered by the latest version of Google's Gemini™ Flash model - for anyone who wants it, no subscription required.
 

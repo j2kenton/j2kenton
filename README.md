@@ -129,9 +129,9 @@ A Chrome extension that drops ready-to-use JavaScript data structure and algorit
 
 ---
 
-## VS Code AI Helper
+## Ensemble (VS Code AI Helper)
 
-An IDE extension for planning and organizing your AI-assisted development.
+An agentic workflow system for VS Code that turns an idea into a supervised, reviewable implementation: capture the task, shape a plan, implement it with the AI provider you choose, and review the result before moving on.
 
 - Source: [j2kenton/vs-code-ai-helper](https://github.com/j2kenton/vs-code-ai-helper)
 - Published: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=j2kenton.vs-code-ai-helper)
@@ -142,8 +142,9 @@ An IDE extension for planning and organizing your AI-assisted development.
 
 <br>
 
-![VS Code AI Helper screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.jpeg)
-![VS Code AI Helper screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.jpeg)
+![Ensemble screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.png)
+![Ensemble screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.png)
+![Ensemble screenshot 3](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-3.png)
 
 ---
 

@@ -94,42 +94,7 @@ A free chatbot powered by the latest version of Gemini Flash. No subscription re
 
 ---
 
-## LinkedIn Connection Automator
-
-A Chrome extension for sending targeted connection requests on LinkedIn, paced with randomized delays to avoid triggering LinkedIn's rate limits.
-
-- Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
-- Published: [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-connection-assis/poedmlfffaldgihhpffkbknjegmkpclj)
-
-<br>
-
-**TypeScript · ChromeExtension**
-
-<br>
-
-![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
-![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
-
----
-
-## DSA Templates
-
-A Chrome extension that drops ready-to-use JavaScript data structure and algorithm templates directly into your browser, saving you time when practicing for coding interviews.
-
-- Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
-- Published: [Chrome Web Store](https://chromewebstore.google.com/detail/dsa-templates/ollnhakcihdpbakabcdgagaciipklehd)
-
-<br>
-
-**JavaScript · ChromeExtension**
-
-<br>
-
-![DSA Templates screenshot](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
-
----
-
-## Ensemble (VS Code AI Helper)
+## Ensemble - Agentic Workflow for VS Code
 
 An agentic workflow system for VS Code that turns an idea into a supervised, reviewable implementation: capture the task, shape a plan, implement it with the AI provider you choose, and review the result before moving on.
 
@@ -162,6 +127,41 @@ An opinionated framework for kickstarting new Next.js projects, via a dedicated 
 <br>
 
 ![ReVamp VS Code screenshot](https://raw.githubusercontent.com/j2kenton/revamp-vscode/main/assets/screenshots/screenshot-2.jpeg)
+
+---
+
+## LinkedIn Connection Automator
+
+A Chrome extension for sending targeted connection requests on LinkedIn, paced with randomized delays to avoid triggering LinkedIn's rate limits.
+
+- Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
+- Published: [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-connection-assis/poedmlfffaldgihhpffkbknjegmkpclj)
+
+<br>
+
+**TypeScript · ChromeExtension**
+
+<br>
+
+![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
+![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
+
+---
+
+## DSA Templates
+
+A Chrome extension that drops ready-to-use JavaScript data structure and algorithm templates directly into your browser, saving you time when practicing for coding interviews.
+
+- Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
+- Published: [Chrome Web Store](https://chromewebstore.google.com/detail/dsa-templates/ollnhakcihdpbakabcdgagaciipklehd)
+
+<br>
+
+**JavaScript · ChromeExtension**
+
+<br>
+
+![DSA Templates screenshot](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
 
 ---
 

@@ -60,6 +60,25 @@ I'm looking for Frontend and Fullstack roles on product teams where I can have e
 
 # Highlights
 
+## Ensemble - Agentic Workflow for VS Code
+
+An agentic workflow system for VS Code that turns an idea into a supervised, reviewable implementation: capture the task, shape a plan, implement it with the AI provider you choose, and review the result before moving on.
+
+- Source: [j2kenton/vs-code-ai-helper](https://github.com/j2kenton/vs-code-ai-helper)
+- Published: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=j2kenton.vs-code-ai-helper)
+
+<br>
+
+**TypeScript · VSCodeExtension**
+
+<br>
+
+![Ensemble screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.png)
+![Ensemble screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.png)
+![Ensemble screenshot 3](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-3.png)
+
+---
+
 ## My Daily Dad Joke - ML Research
 
 A production system that uses AI to generate original jokes and serve them to users via WhatsApp. The jokes get better and better based on the feedback of each user. The long-term goal is to train a foundational model that is not just smart but also hilarious!
@@ -91,25 +110,6 @@ A free chatbot powered by the latest version of Gemini Flash. No subscription re
 <br>
 
 ![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
-
----
-
-## Ensemble - Agentic Workflow for VS Code
-
-An agentic workflow system for VS Code that turns an idea into a supervised, reviewable implementation: capture the task, shape a plan, implement it with the AI provider you choose, and review the result before moving on.
-
-- Source: [j2kenton/vs-code-ai-helper](https://github.com/j2kenton/vs-code-ai-helper)
-- Published: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=j2kenton.vs-code-ai-helper)
-
-<br>
-
-**TypeScript · VSCodeExtension**
-
-<br>
-
-![Ensemble screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.png)
-![Ensemble screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.png)
-![Ensemble screenshot 3](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-3.png)
 
 ---
 

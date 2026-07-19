@@ -113,23 +113,6 @@ An agentic workflow system for VS Code that turns an idea into a supervised, rev
 
 ---
 
-## ReVamp - Next.js Starter Framework
-
-An opinionated framework for kickstarting new Next.js projects, via a dedicated VS Code extension.
-
-- Source: [j2kenton/revamp](https://github.com/j2kenton/revamp) · [j2kenton/revamp-vscode](https://github.com/j2kenton/revamp-vscode)
-- Status: Pending VS Code Marketplace review
-
-<br>
-
-**TypeScript · React · NextJS · NodeJS · TailwindCSS · Redux · VSCodeExtension**
-
-<br>
-
-![ReVamp VS Code screenshot](https://raw.githubusercontent.com/j2kenton/revamp-vscode/main/assets/screenshots/screenshot-2.jpeg)
-
----
-
 ## LinkedIn Connection Automator
 
 A Chrome extension for sending targeted connection requests on LinkedIn, paced with randomized delays to avoid triggering LinkedIn's rate limits.

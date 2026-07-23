@@ -131,20 +131,21 @@ A Chrome extension for sending targeted connection requests on LinkedIn, paced w
 
 ---
 
-## DSA Templates
+## Algo Coach - AI DSA Coach
 
-A Chrome extension that drops ready-to-use JavaScript data structure and algorithm templates directly into your browser, saving you time when practicing for coding interviews.
+A Chrome extension that acts as an AI coach for LeetCode, helping you learn how to solve problems instead of just handing you the answer. It progressively reveals help - from pattern recognition and tradeoffs to hints, pseudocode, and code - plus an Interviewer mode for rehearsing technical interviews, backed by a library of reusable JavaScript DSA templates.
 
 - Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
 - Published: [Chrome Web Store](https://chromewebstore.google.com/detail/dsa-templates/ollnhakcihdpbakabcdgagaciipklehd)
 
 <br>
 
-**JavaScript · ChromeExtension**
+**JavaScript · ChromeExtension · OpenAI · AI**
 
 <br>
 
-![DSA Templates screenshot](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
+![Algo Coach screenshot 1](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
+![Algo Coach screenshot 2](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-2.png)
 
 ---
 

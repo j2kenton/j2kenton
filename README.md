@@ -113,16 +113,16 @@ A free chatbot powered by the latest version of Gemini Flash. No subscription re
 
 ---
 
-## LinkedIn Connection Automator
+## Career Connect
 
-A Chrome extension for sending targeted connection requests on LinkedIn, paced with randomized delays to avoid triggering LinkedIn's rate limits.
+A Chrome extension for LinkedIn networking and job hunting. Search for people by company, title, and location, and send personalized connection invites at a paced rate. It also has AI tools that use a LinkedIn profile, your CV, and a job description to research a company and generate interview prep.
 
 - Source: [j2kenton/linkedin-linker](https://github.com/j2kenton/linkedin-linker)
 - Published: [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-connection-assis/poedmlfffaldgihhpffkbknjegmkpclj)
 
 <br>
 
-**TypeScript · ChromeExtension**
+**TypeScript · ChromeExtension · AnthropicAPI · OpenAI · AI**
 
 <br>
 

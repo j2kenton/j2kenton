@@ -73,9 +73,9 @@ An agentic workflow system for VS Code that turns an idea into a supervised, rev
 
 <br>
 
-![Ensemble screenshot 1](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-1.png)
-![Ensemble screenshot 2](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.png)
-![Ensemble screenshot 3](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-3.png)
+![Ensemble - task description stage - AI generated version](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-2.png)
+![Ensemble - high level plan review - diff](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-3.png)
+![Ensemble - publish stage](https://raw.githubusercontent.com/j2kenton/vs-code-ai-helper/main/images/screenshots/screenshot-4.png)
 
 ---
 

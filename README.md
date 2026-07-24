@@ -96,20 +96,21 @@ A production system that uses AI to generate original jokes and serve them to us
 
 ---
 
-## Gem3 - AI Chatbot
+## Algo Coach - AI DSA Coach
 
-A free chatbot powered by the latest version of Gemini Flash. No subscription required, just log in with your existing Microsoft account and start chatting.
+A Chrome extension that acts as an AI coach for LeetCode, helping you learn how to solve problems instead of just handing you the answer. It progressively reveals help - from pattern recognition and tradeoffs to hints, pseudocode, and code - plus an Interviewer mode for rehearsing technical interviews, backed by a library of reusable JavaScript DSA templates.
 
-- Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
-- Live: [www.gem3.app](https://gem3.app/)
-
-<br>
-
-**TypeScript · React · NextJS · NodeJS · Redis · SSE · GeminiAPI · Azure · Redux · TailwindCSS**
+- Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
+- Published: [Chrome Web Store](https://chromewebstore.google.com/detail/dsa-templates/ollnhakcihdpbakabcdgagaciipklehd)
 
 <br>
 
-![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
+**JavaScript · ChromeExtension · OpenAI · AI**
+
+<br>
+
+![Algo Coach screenshot 1](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
+![Algo Coach screenshot 2](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-2.png)
 
 ---
 
@@ -131,21 +132,20 @@ A Chrome extension for LinkedIn networking and job hunting. Search for people by
 
 ---
 
-## Algo Coach - AI DSA Coach
+## Gem3 - AI Chatbot
 
-A Chrome extension that acts as an AI coach for LeetCode, helping you learn how to solve problems instead of just handing you the answer. It progressively reveals help - from pattern recognition and tradeoffs to hints, pseudocode, and code - plus an Interviewer mode for rehearsing technical interviews, backed by a library of reusable JavaScript DSA templates.
+A free chatbot powered by the latest version of Gemini Flash. No subscription required, just log in with your existing Microsoft account and start chatting.
 
-- Source: [j2kenton/dsa](https://github.com/j2kenton/dsa)
-- Published: [Chrome Web Store](https://chromewebstore.google.com/detail/dsa-templates/ollnhakcihdpbakabcdgagaciipklehd)
-
-<br>
-
-**JavaScript · ChromeExtension · OpenAI · AI**
+- Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
+- Live: [www.gem3.app](https://gem3.app/)
 
 <br>
 
-![Algo Coach screenshot 1](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
-![Algo Coach screenshot 2](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-2.png)
+**TypeScript · React · NextJS · NodeJS · Redis · SSE · GeminiAPI · Azure · Redux · TailwindCSS**
+
+<br>
+
+![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
 
 ---
 

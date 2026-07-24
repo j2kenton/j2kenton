@@ -126,8 +126,8 @@ A Chrome extension for LinkedIn networking and job hunting. Search for people by
 
 <br>
 
-![LinkedIn Connection Automator screenshot 1](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-1.png)
-![LinkedIn Connection Automator screenshot 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
+![Career Connect - Career tab - screenshot 2 of 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-2.png)
+![Career Connect - Connect tab - screenshot 1 of 2](https://raw.githubusercontent.com/j2kenton/linkedin-linker/master/assets/screenshots/screenshot-3.png)
 
 ---
 

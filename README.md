@@ -92,7 +92,7 @@ A production system that uses AI to generate original jokes and serve them to us
 
 <br>
 
-![My Daily Dad Joke screenshot](assets/screenshots/screenshot-1.jpeg)
+![My Daily Dad Joke screenshot](assets/screenshots/screenshot-1.png)
 
 ---
 

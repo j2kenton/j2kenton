@@ -109,8 +109,8 @@ A Chrome extension that acts as an AI coach for LeetCode, helping you learn how 
 
 <br>
 
-![Algo Coach screenshot 1](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-1.png)
-![Algo Coach screenshot 2](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/screenshot-2.png)
+![Algo Coach screenshot 1](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/fullsize/screenshot-1.png)
+![Algo Coach screenshot 2](https://raw.githubusercontent.com/j2kenton/dsa/main/store-assets/fullsize/screenshot-2.png)
 
 ---
 

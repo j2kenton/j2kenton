@@ -81,18 +81,19 @@ An agentic workflow system for VS Code that turns an idea into a supervised, rev
 
 ## My Daily Dad Joke - ML Research
 
-A production system that uses AI to generate original jokes and serve them to users via WhatsApp. The jokes get better and better based on the feedback of each user. The long-term goal is to train a foundational model that is not just smart but also hilarious!
+A production system that uses AI to generate original jokes and serve them to users via WhatsApp. The jokes get better and better based on the feedback of each user. The long-term goal is to train a foundational model that is not just smart but also hilarious! There's also a browser-based web app version, for anyone who wants to try it without WhatsApp.
 
 - More info: [mydailyjoke.dad](https://mydailyjoke.dad/)
-- Try it for free: [mydailyjoke.dad/join](https://mydailyjoke.dad/join)
+- Try the web app version: [web.mydailyjoke.dad](https://web.mydailyjoke.dad/)
 
 <br>
 
-**MachineLearning · LLM · VectorEmbeddings · AmazonBedrock · TypeScript · NodeJS · PostgreSQL · AWS · SQS · Lambda**
+**MachineLearning · LLM · VectorEmbeddings · AmazonBedrock · TypeScript · React · NextJS · NodeJS · PostgreSQL · AWS · SQS · Lambda**
 
 <br>
 
 ![My Daily Dad Joke screenshot](assets/screenshots/screenshot-1.png)
+![My Daily Dad Joke web app screenshot](assets/screenshots/screenshot-2.png)
 
 ---
 

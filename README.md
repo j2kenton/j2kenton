@@ -135,14 +135,14 @@ A Chrome extension for LinkedIn networking and job hunting. Search for people by
 
 ## Gem3 - AI Chatbot
 
-A free chatbot powered by the latest version of Gemini Flash. No subscription required, just log in with your existing Microsoft account and start chatting.
+A free chatbot powered by Gemini Flash, automatically tracking Google's newest Flash model release. No subscription required: sign in with Google or Microsoft and start chatting.
 
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
 - Live: [www.gem3.app](https://gem3.app/)
 
 <br>
 
-**TypeScript · React · NextJS · NodeJS · Redis · SSE · GeminiAPI · Azure · Redux · TailwindCSS**
+**TypeScript · React · Next.js · Tailwind CSS · shadcn/ui · Redux · TanStack Query · Redis · SSE**
 
 <br>
 

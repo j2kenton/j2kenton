@@ -83,8 +83,7 @@ An agentic workflow system for VS Code that turns an idea into a supervised, rev
 
 A production system that uses AI to generate original jokes and serve them to users via WhatsApp. The jokes get better and better based on the feedback of each user. The long-term goal is to train a foundational model that is not just smart but also hilarious! There's also a browser-based web app version, for anyone who wants to try it without WhatsApp.
 
-- More info: [mydailyjoke.dad](https://mydailyjoke.dad/)
-- Try the web app version: [web.mydailyjoke.dad](https://web.mydailyjoke.dad/)
+- More info & live demo: [mydailyjoke.dad](https://mydailyjoke.dad/)
 
 <br>
 

@@ -145,7 +145,7 @@ A free chatbot powered by Gemini Flash, automatically tracking Google's newest F
 
 <br>
 
-![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.jpeg)
+![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.png)
 
 ---
 

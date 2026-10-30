@@ -132,7 +132,7 @@ A Chrome extension for LinkedIn networking and job hunting. Search for people by
 
 ---
 
-## AI Playroom - AI Chatbot
+## AI Playroom - Free Online Chatbot
 
 A playroom for trying out the newest AI models as they release. The current toy in the room is Google's Gemini 4, with the integration built to swap in new models as they come out. Free, no subscription required: sign in and start chatting.
 

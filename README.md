@@ -16,7 +16,7 @@ At Microsoft, I worked on the Azure Portal Frontend team, building the ADP platf
 
 ## Machine Learning Research
 
-After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and dive deeper into areas I'd always been interested in but never had the time to explore in depth - including Backend, AI, and Machine Learning. My main focus has been [training an AI to have a sense of humour](#my-daily-dad-joke---ml-research) - which sounds like a bit of a joke, but is actually one of the trickiest unsolved problems in machine learning.
+After 4 years at Microsoft, as our project started winding down, I took the opportunity to pivot and dive deeper into areas I'd always been interested in but never had the time to explore in depth - including Backend, AI, and Machine Learning. My main focus has been [training an AI to have a sense of humour](#my-daily-dad-joke---self-improving-ai-comedian) - which sounds like a bit of a joke, but is actually one of the trickiest unsolved problems in machine learning.
 
 Now that I've learned how to use AI to work more productively - and even built my own [open source productivity tools](#ensemble---agentic-workflow-for-vs-code) - I'm really excited to bring all of that back into the industry.
 
@@ -79,9 +79,9 @@ An agentic workflow system for VS Code that turns an idea into a supervised, rev
 
 ---
 
-## My Daily Dad Joke - ML Research
+## My Daily Dad Joke - Self-Improving AI Comedian
 
-A production system that uses AI to generate original jokes and serve them to users via WhatsApp. The jokes get better and better based on the feedback of each user. The long-term goal is to train a foundational model that is not just smart but also hilarious! There's also a browser-based web app version, for anyone who wants to try it without WhatsApp.
+A production system that uses AI to generate original jokes and send them to users via WhatsApp. Every rating feeds back into the system, so each user's jokes keep getting funnier over time. The long-term goal is to train a foundational model that is not just smart but also hilarious!
 
 - More info & live demo: [mydailyjoke.dad](https://mydailyjoke.dad/)
 

@@ -145,7 +145,7 @@ A playroom for trying out the newest AI models as they release. The current toy 
 
 <br>
 
-![AI Playroom screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.png)
+![AI Playroom screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-2.jpg)
 
 ---
 

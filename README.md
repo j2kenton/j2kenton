@@ -132,12 +132,12 @@ A Chrome extension for LinkedIn networking and job hunting. Search for people by
 
 ---
 
-## Gem3 - AI Chatbot
+## AI Playroom - AI Chatbot
 
-A free chatbot powered by Gemini Flash, automatically tracking Google's newest Flash model release. No subscription required: sign in with Google or Microsoft and start chatting.
+A playroom for trying out the newest AI models as they release. The current toy in the room is Google's Gemini 4, with the integration built to swap in new models as they come out. Free, no subscription required: sign in and start chatting.
 
 - Source: [j2kenton/revamp-1](https://github.com/j2kenton/revamp-1)
-- Live: [www.gem3.app](https://gem3.app/)
+- Live: [www.aiplayroom.app](https://aiplayroom.app/)
 
 <br>
 
@@ -145,7 +145,7 @@ A free chatbot powered by Gemini Flash, automatically tracking Google's newest F
 
 <br>
 
-![Gem3 screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.png)
+![AI Playroom screenshot](https://raw.githubusercontent.com/j2kenton/revamp-1/master/public/screenshots/screenshot-1.png)
 
 ---
 

@@ -163,3 +163,15 @@ A Google Workspace add-on that makes it easy to turn emails into calendar events
 <br>
 
 ![Gmail to Calendar screenshot 2](https://raw.githubusercontent.com/j2kenton/gmail-to-calendar/master/artifacts/screenshots/screenshot-2.jpeg)
+
+---
+
+## Live Call Assistant - Real-Time Help During Calls
+
+A toolkit that lets Claude Code listen along to your calls as they happen, using the live transcript from Wispr Flow. When you're stuck, type any key and it answers the question you were just asked, straight from your own notes. Or let it listen to a family call and suggest a funny line now and then. Each use is a short skill on top of the same listening engine, so it's easy to build your own.
+
+- Source: [j2kenton/live-call-assistant](https://github.com/j2kenton/live-call-assistant)
+
+<br>
+
+**JavaScript · NodeJS · ClaudeCode · AI**

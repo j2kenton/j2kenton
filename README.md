@@ -175,3 +175,15 @@ A toolkit that lets Claude Code listen along to your calls as they happen, using
 <br>
 
 **JavaScript · NodeJS · ClaudeCode · AI · Whisper · Android**
+
+---
+
+## Android Secretary - A Personal Assistant for Your Phone's Notifications
+
+A rules engine that runs on an Android phone itself (in Termux), with Claude for the judgement calls. It turns the notification shade into a handful of cards you can act on in one tap: a reply typed in and ready to send, an appointment ready for the calendar, a school item ready to forward to your partner. It reads the silent class and community groups you never open and surfaces only what you must act on, wakes the phone for a genuinely urgent message from family (and keeps quiet when it's not), and writes one morning summary. It never sends, approves or deletes anything by itself. Personal data stays in git-ignored files, with a test that fails if anything private slips into the code.
+
+- Source: [j2kenton/android-secretary](https://github.com/j2kenton/android-secretary)
+
+<br>
+
+**Python · Android · Termux · ClaudeCode · AI**

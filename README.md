@@ -190,4 +190,4 @@ A rules engine that runs on an Android phone itself (in Termux), with Claude for
 
 <br>
 
-<img src="https://raw.githubusercontent.com/j2kenton/android-secretary/main/screenshots/screenshot-1.png" width="360" alt="Android Secretary - morning summary and cards in the notification shade"> <img src="https://raw.githubusercontent.com/j2kenton/android-secretary/main/screenshots/screenshot-2.png" width="360" alt="Android Secretary - school item and suggested reply cards">
+<img src="https://raw.githubusercontent.com/j2kenton/android-secretary/main/screenshots/screenshot-1.png" width="360" alt="Android Secretary - morning summary and cards in the notification shade">

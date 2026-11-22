@@ -176,6 +176,10 @@ A toolkit that lets Claude Code listen along to your calls as they happen, using
 
 **JavaScript · NodeJS · ClaudeCode · AI · Whisper · Android**
 
+<br>
+
+![Live Call Assistant - /call-jokes suggesting a line during a call](https://raw.githubusercontent.com/j2kenton/live-call-assistant/main/docs/images/call-jokes-example.png)
+
 ---
 
 ## Android Secretary - A Personal Assistant for Your Phone's Notifications
